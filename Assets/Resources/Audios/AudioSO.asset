@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff1c23670740ffb40851ff6d0e2fdd69, type: 3}
+  m_Name: AudioSO
+  m_EditorClassIdentifier: 
+  audioReferences:
+  - key: Gameplay
+    audio: {fileID: 8300000, guid: 01d01d5f0d4464442b4a0f4a64006c58, type: 3}
+  - key: Lose
+    audio: {fileID: 8300000, guid: 79e3299edfeb25e4e89b64e69726465b, type: 3}
+  - key: Menu
+    audio: {fileID: 8300000, guid: c0ff1865ccde5e748a68f548a7130b95, type: 3}
+  - key: Win
+    audio: {fileID: 8300000, guid: aee2356bcd90ef845a5181c624917c16, type: 3}
+  - key: AddStar
+    audio: {fileID: 8300000, guid: 762d00dfa3fa65847b89e22426a99c4b, type: 3}

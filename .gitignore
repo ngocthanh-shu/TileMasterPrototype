@@ -1,0 +1,8 @@
+﻿Library
+Logs
+ProjectSettings/ProjectVersion.txt
+UserSettings
+*.csproj
+*.sln
+obj
+.idea
