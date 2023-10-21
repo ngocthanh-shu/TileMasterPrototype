@@ -3,4 +3,4 @@
 
 Link Download Apk:
 - itch.io: https://ngocthanhshu.itch.io/tile-master-prototype
-- google drive: https://drive.google.com/file/d/1rSG8caUuqExojLsBnx4yjQKCHY1no34-/view?usp=sharing
+- google drive: https://drive.google.com/drive/folders/1h5BDZf0L8uXncVKi5xUsGYsJiR1P5VIc?usp=sharing
